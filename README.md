@@ -1,8 +1,10 @@
 # PowerApps (Canvas) & Bing Map API
 
-# Intrduction
+### Intrduction
 
 In a world where data-driven decisions are critical, visualizing information is a powerful communication tool. Leveraging Canvas PowerApps, I demo a mechanism to assess the "drive ease" from Memphis, TN (an Example) to various clients' cities. It's not only about distance; this application also rates the price expense based on the distance, visually representing it through dynamic color changes. Let's dive into the specifics!
+
+### [Click to see the Blog Post](https://ahmedsalih.blog/blog/f/powerapps-dataverse-bing-maps-service-to-client-drive-rating)
 
 ## App Screenshot:
 ![Alt text](https://github.com/AhmedSalih-PowerPlatformPlace/With-Function-Bing-Maps-API/blob/main/iScreen%20Shoter%20-%20Microsoft%20Edge%20-%20230815085635.jpg)
